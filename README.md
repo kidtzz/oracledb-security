@@ -1,4 +1,4 @@
-# Oracle Database Security Workshop
+# Oracle Database Security
 
 Welcome to the **Oracle Database Security Workshop** 
 
